@@ -112,3 +112,5 @@ elif Player_profile2 == 'C':
             else:
                 print('Try again you have '+str(6-x)+' chances remaining')
     GuessInput()
+    
+Good_Bye = input('Press any key to exit')
